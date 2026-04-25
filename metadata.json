@@ -1,6 +1,6 @@
 {
-  "name": "AI Creative Playground",
-  "description": "A sophisticated sandbox for exploring AI capabilities: chat with Gemini and generate stunning images in a polished, multi-pane interface.",
+  "name": "",
+  "description": "",
   "requestFramePermissions": [],
-  "majorCapabilities": ["AI Chat", "Image Generation"]
+  "majorCapabilities": []
 }
